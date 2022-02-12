@@ -1,0 +1,25 @@
+git テスト用プロジェクト
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+GitHubでプロジェクトをチームで共有化済み
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+・GitHub
+  ユーザ名：msssk74
+  メールアドレス：@g
+  パスワード：kapaou513
+
+　URI　https://github.com/msssk74/hellogit.git
+　SSH　git@github.com:msssk74/hellogit.git
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+GitHubにリモートリポジトリの作成後
+EclipseのGitでリモート(GitHub)にローカルコミットをプッシュしたところ
+「Can’t connect to any repository: https://XXXXX.git (https://XXXXX.git: 未認証)」 とエラーメッセージが表示される事象
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+・「HTTPS」の場合、個人アクセストークン認証を利用
+　https://boukenki.info/eclipse-git-push-cant-connect-to-any-repository-%E6%9C%AA%E8%AA%8D%E8%A8%BC/
+　⇒個人アクセストークン認証：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
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+GitHubのリポートリポジトリへのプッシュテスト
