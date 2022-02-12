@@ -19,7 +19,7 @@ EclipseのGitでリモート(GitHub)にローカルコミットをプッシュ�
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 ・「HTTPS」の場合、個人アクセストークン認証を利用
 　https://boukenki.info/eclipse-git-push-cant-connect-to-any-repository-%E6%9C%AA%E8%AA%8D%E8%A8%BC/
-　⇒個人アクセストークン認証：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
+　⇒個人アクセストークン認証：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
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
 
