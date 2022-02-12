@@ -22,4 +22,5 @@ EclipseのGitでリモート(GitHub)にローカルコミットをプッシュ�
 　⇒個人アクセストークン認証：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
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
 
+
 GitHubのリポートリポジトリへのプッシュテスト
